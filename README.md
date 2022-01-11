@@ -2,17 +2,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning DevOps
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics and Communicaion Engineering.
-- 💼 &nbsp; Lookin for front-end developer job.
+- 🎓 &nbsp; Pursued Electronics and Communication Engineering.
+- 💼 &nbsp; Working as a Frontend Developer.
 - 🌱 &nbsp; Enthusiast in Augmented and Virtual Reality .
 - ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C 
-- 🌐 &nbsp; flutter | HTML | CSS | JavaScript 
+- 🌐 &nbsp; React | HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | Firebase
 - 🔧 &nbsp; IntelliJ | Visual Studio code | Eclipse | Git
 
