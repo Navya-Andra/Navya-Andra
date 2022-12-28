@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning DevOps
+- 🔭 &nbsp; I’m currently learning about AWS
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursued Electronics and Communication Engineering.
 - 💼 &nbsp; Working as a Frontend Developer.
